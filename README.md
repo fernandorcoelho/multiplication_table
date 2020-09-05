@@ -1,1 +1,7 @@
-This project aims to learn how to work with tables with HTML to create a multiplication table. In it, we see how JavaScript converses with HTML in the DOM, filling in information.
+# Projeto Tabuada
+
+Projeto desenvolvido no curso Web Fundamentos da Hcode. 
+
+-> Tecnologias utilizadas: **HTML, CSS e JavaScript**
+
+![Table](https://i.imgur.com/9K1llg0.png "Table")
